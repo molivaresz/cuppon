@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto light', sans-serif;
+}
+
+.bg-nav-form {
+    background-color: #28A745;
+}
+
+.img-size {
+    width: 7.2em;
+    height:2.1em;
+}
+
+a:link {
+    color:white;
+}
+
+a:active {
+    color: white;
+}
+
+.nav-item a:hover {
+    color:snow;
+}
+
+.nav-item a:visited {
+    color:whitesmoke;
+}
+
+.nav-item a:disabled {
+    color:gray;
+}
+
+.card-title {
+    font-size: 1.2em;
+}
+
+.card-text {
+    font-size: 1em;
+}
+
+.precio-nodestacado {
+    font-size: 1em;
+}
+
+.precio-destacado {
+    font-family: 'Roboto medium', sans-serif;
+    font-size: 1.2em;
+    color:#28A745;
+}
+
+.titulo-form {
+    font-family: 'Roboto medium', sans-serif;
+    font-size: 1.5em;    
+}
+
+footer {
+    font-size: 1em;
+}
